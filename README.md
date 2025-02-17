@@ -1,3 +1,2 @@
 # odin-recipes
-"Project: Recipes
-The Odin Project Foundations Course"
+Project #1: Recipes
